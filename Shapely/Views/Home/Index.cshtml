@@ -1,0 +1,7 @@
+﻿<h3>Rectangles</h3>
+<div ng-controller="RectangleController">
+    <ul>
+        <li ng-repeat="rectangle in allRectangles">{{ rectangle.Color }}</li>
+    </ul>
+    <h4 ng-show="allRectangles.length == 0">There are no rectangles.</h4>
+</div>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapely", "Shapely\Shapely.csproj", "{08509D16-8AA5-44FD-9A9E-21B5F41ABBBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapely.Core", "Shapely.Core\Shapely.Core.csproj", "{DAFA07DC-FD3C-48DB-B543-6D6FF568930C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08509D16-8AA5-44FD-9A9E-21B5F41ABBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08509D16-8AA5-44FD-9A9E-21B5F41ABBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08509D16-8AA5-44FD-9A9E-21B5F41ABBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08509D16-8AA5-44FD-9A9E-21B5F41ABBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAFA07DC-FD3C-48DB-B543-6D6FF568930C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFA07DC-FD3C-48DB-B543-6D6FF568930C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFA07DC-FD3C-48DB-B543-6D6FF568930C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFA07DC-FD3C-48DB-B543-6D6FF568930C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1690B173-09B4-4AA7-8D70-4670D7C47544}
+	EndGlobalSection
+EndGlobal
